@@ -2,7 +2,7 @@
 
 1.  **Puedes visitar la página web mediante el siguiente link:**
     ```
-    https://noeliacamelia.netlify.app/
+    ([https://noeliacamelia.netlify.app/](https://noeliacamelia.netlify.app/))
     ```
 
 2.  **Puedes clonar el repositorio y seguir los siguientes pasos:**
@@ -12,7 +12,7 @@
     ```
     pnpm install
     gatsby develop
-    Abrir http://localhost:8000 en tu navegador
+    Abrir ([http://localhost:8000](http://localhost:8000)) en tu navegador
     ```
 
 3.  **Si quieres desplegarlo en Netlify**
